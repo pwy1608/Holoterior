@@ -534,7 +534,10 @@ PlayerSettings:
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: Holoterior
-  wsaImages: {}
+  wsaImages:
+    131172: Assets/Logos/Scale100.png
+    131272: Assets/Logos/Scale200.png
+    131472: Assets/Logos/Scale400.png
   metroTileShortName: Holoterior
   metroCommandLineArgsFile: 
   metroTileShowName: 0
