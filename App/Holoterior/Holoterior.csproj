@@ -156,7 +156,15 @@
     </Compile>
     <Content Include="Resource.res">
     </Content>
+    <Content Include="Assets\SplashScreen.scale-100.png">
+    </Content>
+    <Content Include="Assets\SplashScreen.scale-125.png">
+    </Content>
+    <Content Include="Assets\SplashScreen.scale-150.png">
+    </Content>
     <Content Include="Assets\SplashScreen.scale-200.png">
+    </Content>
+    <Content Include="Assets\SplashScreen.scale-400.png">
     </Content>
     <Content Include="Assets\Square150x150Logo.scale-200.png">
     </Content>
@@ -216,13 +224,13 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="C:\Users\Won Young Park\Source\Repos\Holoterior\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj">
-      <Project>{3a4db95e-82c3-4cb6-9b87-5836c0e04d86}</Project>
+    <ProjectReference Include="C:\Users\Won Young Park\Documents\GitHub\holoterior\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj">
+      <Project>{16a302dc-e952-4959-bbff-7ef3928bd7c9}</Project>
       <Name>Assembly-CSharp</Name>
       <Private>False</Private>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\Won Young Park\Source\Repos\Holoterior\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj">
-      <Project>{5d635b49-763d-422e-b528-2f9529c5ffe9}</Project>
+    <ProjectReference Include="C:\Users\Won Young Park\Documents\GitHub\holoterior\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj">
+      <Project>{16392c39-d720-4fd0-908a-c9b347905203}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
       <Private>False</Private>
     </ProjectReference>

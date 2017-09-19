@@ -5,15 +5,19 @@
 # Write a line equal to 'overwrite-all' (without quotes) to overwrite everything (preserved accross builds)
 # Write a line equal to 'keep-all' (without quotes) to keep files regardless their modification (preserved accross builds)
 # Default behavior is to never overwrite files
-Holoterior.sln: FB24F913F727415C32FC1598DFC36BDE
+Holoterior.sln: 73ABCF67239F9B1207E5D6FF189B56C5
 GeneratedProjects\UWP\Assembly-CSharp\project.json: 4FCF72A4D5EDB37E24C206A7BCFE7AF1
 GeneratedProjects\UWP\Assembly-CSharp-firstpass\project.json: 4FCF72A4D5EDB37E24C206A7BCFE7AF1
 Holoterior\App.cs: 479E661A14127275C0181BAFF0E55183
-Holoterior\Holoterior.csproj: 6480507EE6A810BB40DCF992336D4A4F
-Holoterior\Holoterior.csproj.user: BEFB8AC4886C4CFDD3C68445D6F19B04
-Holoterior\Package.appxmanifest: 8F6E824BA93C3EF727E3ABC8EA14FE52
+Holoterior\Holoterior.csproj: 97F349D74AB16A5614C5679FB921EFD5
+Holoterior\Holoterior.csproj.user: modified
+Holoterior\Package.appxmanifest: 247ACDF108E6C915B609DB13F16A5FE5
 Holoterior\project.json: 1D02BC64BAC0D041019673A1C4C51737
-Holoterior\Assets\SplashScreen.scale-200.png: 60618416282ED104FD1473935716045D
+Holoterior\Assets\SplashScreen.scale-100.png: BB4E362E52E075B2B42A04CF4D8FF61F
+Holoterior\Assets\SplashScreen.scale-125.png: 36EB964180E507B24C9AE6E59E1135C8
+Holoterior\Assets\SplashScreen.scale-150.png: D860D7F68F797EA002636AD5DA52FF0D
+Holoterior\Assets\SplashScreen.scale-200.png: 3516D676746EBFAFBB3A5D0ECADEC3A4
+Holoterior\Assets\SplashScreen.scale-400.png: A4D32E9AD9E7892CF8F0F1A09A0146A5
 Holoterior\Assets\Square150x150Logo.scale-200.png: E02834B4A5DFB97FF8E212C1CACBB084
 Holoterior\Assets\Square44x44Logo.scale-200.png: 6C6EF27184ABE9D870A9D564953775DE
 Holoterior\Assets\Square44x44Logo.targetsize-24_altform-unplated.png: 156637F7B5363E983E7A46D8E533A23D

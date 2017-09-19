@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 950, y: 521}
+  m_MinSize: {x: 950, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -66,10 +66,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 1067
-  m_MinSize: {x: 677, y: 471}
-  m_MaxSize: {x: 12002, y: 14042}
+  m_MinSize: {x: 683, y: 492}
+  m_MaxSize: {x: 12008, y: 14042}
   vertical: 0
-  controlID: 45
+  controlID: 93
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -205,10 +205,10 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 1067
-  m_MinSize: {x: 677, y: 471}
-  m_MaxSize: {x: 12002, y: 14042}
+  m_MinSize: {x: 683, y: 492}
+  m_MaxSize: {x: 12008, y: 14042}
   vertical: 1
-  controlID: 46
+  controlID: 94
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -230,10 +230,10 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 761
-  m_MinSize: {x: 677, y: 200}
-  m_MaxSize: {x: 12002, y: 4021}
+  m_MinSize: {x: 683, y: 221}
+  m_MaxSize: {x: 12008, y: 4021}
   vertical: 0
-  controlID: 47
+  controlID: 95
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -419,7 +419,7 @@ MonoBehaviour:
     width: 1920
     height: 285
   m_SearchFilter:
-    m_NameFilter: speech
+    m_NameFilter: 
     m_ClassNames: []
     m_AssetLabels: []
     m_AssetBundleNames: []
@@ -430,19 +430,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/HoloToolkit/Utilities/Scripts
+    - Assets/Logos
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/HoloToolkit/Utilities/Scripts
+  - Assets/Logos
   m_LastFoldersGridSize: 16
-  m_LastProjectPath: C:\Users\Won Young Park\Source\Repos\Holoterior
+  m_LastProjectPath: C:\Users\Won Young Park\Documents\GitHub\holoterior
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 136}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: 322600001c440000ca440000fc45000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 132}
+    m_SelectedIDs: 562b0000
+    m_LastClickedID: 11094
+    m_ExpandedIDs: 00000000f6280000a42a0000c42a00005a2b000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -470,7 +470,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000f6280000a42a0000c42a00005a2b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -555,7 +555,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: b636feff9237feff3439feffa4aafeffe003ffffe49cffff06b0ffffcab0ffff80b2ffff6afbffff00000000
+    m_ExpandedIDs: 5266ffff2e67ffffd068ffff1afcffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 

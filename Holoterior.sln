@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Holoterior", "Holoterior.csproj", "{512F72F8-8803-B212-0F19-0B57168F37FE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "holoterior", "holoterior.csproj", "{A5A5A152-1544-72B3-45D8-D798A330C7AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Holoterior.Editor", "Holoterior.Editor.csproj", "{8DE406E1-A816-C963-51F2-E8A09971F37C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "holoterior.Editor", "holoterior.Editor.csproj", "{6A18FEC9-67E2-EBB4-5867-F13B5DE263AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,14 +11,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{512F72F8-8803-B212-0F19-0B57168F37FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{512F72F8-8803-B212-0F19-0B57168F37FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{512F72F8-8803-B212-0F19-0B57168F37FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{512F72F8-8803-B212-0F19-0B57168F37FE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8DE406E1-A816-C963-51F2-E8A09971F37C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8DE406E1-A816-C963-51F2-E8A09971F37C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8DE406E1-A816-C963-51F2-E8A09971F37C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8DE406E1-A816-C963-51F2-E8A09971F37C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5A5A152-1544-72B3-45D8-D798A330C7AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5A5A152-1544-72B3-45D8-D798A330C7AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5A5A152-1544-72B3-45D8-D798A330C7AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5A5A152-1544-72B3-45D8-D798A330C7AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A18FEC9-67E2-EBB4-5867-F13B5DE263AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A18FEC9-67E2-EBB4-5867-F13B5DE263AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A18FEC9-67E2-EBB4-5867-F13B5DE263AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A18FEC9-67E2-EBB4-5867-F13B5DE263AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

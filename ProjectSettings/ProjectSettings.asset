@@ -520,11 +520,22 @@ PlayerSettings:
   metroCertificateIssuer: DefaultCompany
   metroCertificateNotAfter: 0096e9ce4450d401
   metroApplicationDescription: Holoterior
-  wsaImages: {}
+  wsaImages:
+    131172: Assets/Logos/Scale100.png
+    131197: Assets/Logos/Scale125.png
+    131212: Assets/Logos/Scale140.png
+    131222: Assets/Logos/Scale150.png
+    131252: Assets/Logos/Scale180.png
+    131272: Assets/Logos/Scale200.png
+    131472: Assets/Logos/Scale400.png
+    720976: Assets/Logos/MediumTile80.png
+    720996: Assets/Logos/MediumTile100.png
+    721036: Assets/Logos/MediumTile140.png
+    721076: Assets/Logos/MediumTile180.png
   metroTileShortName: Holoterior
   metroCommandLineArgsFile: 
   metroTileShowName: 0
-  metroMediumTileShowName: 0
+  metroMediumTileShowName: 1
   metroLargeTileShowName: 0
   metroWideTileShowName: 0
   metroDefaultTileSize: 1
