@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: b44b6d2129fdcd04d81f123921abebf4
+timeCreated: 1505824919
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Source Han Serif KR
+  fontNames:
+  - Source Han Serif KR
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 50b86561b02795640a4ebb8f6676f321, type: 3}
+  - {fileID: 12800000, guid: 55f35ea825bc0b143b008fc96d797a83, type: 3}
+  - {fileID: 12800000, guid: 0948103a64cf23540bb48e0abe34e647, type: 3}
+  - {fileID: 12800000, guid: a95e43fd658dfb846b22b26f4508430f, type: 3}
+  - {fileID: 12800000, guid: 4be14b4fb39928e4496d535384a26745, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
