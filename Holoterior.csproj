@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{512F72F8-8803-B212-0F19-0B57168F37FE}</ProjectGuid>
+    <ProjectGuid>{A5A5A152-1544-72B3-45D8-D798A330C7AB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AssemblyName>Assembly-CSharp</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -279,6 +279,7 @@
     <Compile Include="Assets\HoloToolkit\SpatialUnderstanding\Scripts\SpatialUnderstandingSourceMesh.cs" />
     <Compile Include="Assets\HoloToolkit\UI\Scripts\AxisSlider.cs" />
     <Compile Include="Assets\HoloToolkit\UI\Scripts\CapsLockHighlight.cs" />
+    <Compile Include="Assets\HoloToolkit\UI\Scripts\ConsoleWindowAR.cs" />
     <Compile Include="Assets\HoloToolkit\UI\Scripts\Keyboard.cs" />
     <Compile Include="Assets\HoloToolkit\UI\Scripts\KeyboardInputField.cs" />
     <Compile Include="Assets\HoloToolkit\UI\Scripts\KeyboardKeyFunc.cs" />
