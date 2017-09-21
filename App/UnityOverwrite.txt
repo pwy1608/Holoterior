@@ -5,13 +5,13 @@
 # Write a line equal to 'overwrite-all' (without quotes) to overwrite everything (preserved accross builds)
 # Write a line equal to 'keep-all' (without quotes) to keep files regardless their modification (preserved accross builds)
 # Default behavior is to never overwrite files
-Holoterior.sln: EEA76E94234E3BBBB5A60E2D371273B8
+Holoterior.sln: 422179AEA0424BA88CDC00CE7B22C6C7
 GeneratedProjects\UWP\Assembly-CSharp\project.json: 4FCF72A4D5EDB37E24C206A7BCFE7AF1
 GeneratedProjects\UWP\Assembly-CSharp-firstpass\project.json: 4FCF72A4D5EDB37E24C206A7BCFE7AF1
 Holoterior\App.cs: 479E661A14127275C0181BAFF0E55183
-Holoterior\Holoterior.csproj: 8724E6B4AE71E03570224FE7E132B1A5
+Holoterior\Holoterior.csproj: 8ECCEAFC37C41F3A78AF821A84025BF6
 Holoterior\Holoterior.csproj.user: modified
-Holoterior\Package.appxmanifest: 247ACDF108E6C915B609DB13F16A5FE5
+Holoterior\Package.appxmanifest: 455AF1F1572D2509438FC33B09D21C11
 Holoterior\project.json: 1D02BC64BAC0D041019673A1C4C51737
 Holoterior\Assets\SplashScreen.scale-100.png: BB4E362E52E075B2B42A04CF4D8FF61F
 Holoterior\Assets\SplashScreen.scale-125.png: 36EB964180E507B24C9AE6E59E1135C8

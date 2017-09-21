@@ -225,12 +225,12 @@
 
   <ItemGroup>
     <ProjectReference Include="C:\Users\Won Young Park\Documents\GitHub\holoterior\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj">
-      <Project>{e8fd4e7f-fe90-4df5-9aca-a0545d0b4aef}</Project>
+      <Project>{3871cc2f-77ce-4f58-96a7-d90ad6071d8c}</Project>
       <Name>Assembly-CSharp</Name>
       <Private>False</Private>
     </ProjectReference>
     <ProjectReference Include="C:\Users\Won Young Park\Documents\GitHub\holoterior\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj">
-      <Project>{ff0d76b4-e2a5-453c-838f-9159ad471e4f}</Project>
+      <Project>{d61ac696-a251-4130-a790-9bcf5a2d6394}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
       <Private>False</Private>
     </ProjectReference>

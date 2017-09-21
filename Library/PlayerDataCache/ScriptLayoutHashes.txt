@@ -150,7 +150,7 @@ cf55d93d01dab2c2d4dcc9572bac31dd Assembly-CSharp.dll:HoloToolkit.Unity.UAudioMin
 060048163841f486acb147d2ead9eea2 Assembly-CSharp.dll:HoloToolkit.Unity.InputModule.ButtonController
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:HoloToolkit.Unity.TimerScheduler
 066f3c01e7c10bfbdc9fc130998d1d40 Assembly-CSharp.dll:HoloToolkit.Sharing.Spawning.PrefabSpawnManager
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.ConsoleWindowAR
+52945f83e6eba98f04d2fced2b31dd72 Assembly-CSharp.dll:.ConsoleWindowAR
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:HoloToolkit.Unity.SpatialMapping.SpatialMappingSource
 7a65adebc9a24f885fe1434a888037a0 Assembly-CSharp.dll:HoloToolkit.Unity.InputModule.GesturesInput
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:HoloToolkit.Unity.InputModule.InputManager

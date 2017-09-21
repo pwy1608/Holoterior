@@ -70,7 +70,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 58
+  controlID: 45
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -89,8 +89,8 @@ MonoBehaviour:
     y: 0
     width: 348
     height: 716
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -209,7 +209,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 59
+  controlID: 46
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -233,7 +233,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 60
+  controlID: 47
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -289,7 +289,7 @@ MonoBehaviour:
     y: 92
     width: 377
     height: 1046
-  m_ScrollPosition: {x: 0, y: 0}
+  m_ScrollPosition: {x: 0, y: 292.95508}
   m_InspectorMode: 0
   m_PreviewResizer:
     m_CachedPref: -227
@@ -419,7 +419,7 @@ MonoBehaviour:
     width: 1539
     height: 330
   m_SearchFilter:
-    m_NameFilter: 
+    m_NameFilter: speech
     m_ClassNames: []
     m_AssetLabels: []
     m_AssetBundleNames: []
@@ -440,9 +440,9 @@ MonoBehaviour:
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 203}
-    m_SelectedIDs: d22a0000
-    m_LastClickedID: 10962
-    m_ExpandedIDs: 00000000fc2800005a2a0000aa2a0000ca2a0000602b000000ca9a3bffffff7f
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 00000000f8280000562a0000a62a0000c62a00005c2b000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -470,7 +470,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000fc2800005a2a0000aa2a0000ca2a0000602b0000
+    m_ExpandedIDs: 00000000f8280000562a0000a62a0000c62a00005c2b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -497,7 +497,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: 18210000bc350000d47d0000523b0000404d0000ea380000d823000014290000ea230000c0380000881518008e151800fa2800007c7a0000ee230000f02300002c3900004ceb8f00dc230000f82c0000f62c00007a3400008c3400008234000026310000849b000008240000f2370000002200009e47000020220000f29d00002c22000068430000482900002a2200004e290000982200000c4100002037000090220000ce400000d827000096220000ce460000143900009c220000425dfdff763b0000b42affff6019ffffa22200009e22000092220000fa25000006260000082300002c2600007e250000423000008887fcff1e260000722400008e270000ec2300000c2600004a250000be240000c8240000bc2400003c260000000000007e420000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -553,9 +553,9 @@ MonoBehaviour:
     height: 695
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: 76f5ffff5af6ffffc2f8ffff18fcffff00000000
+    m_SelectedIDs: 342e0000
+    m_LastClickedID: 11828
+    m_ExpandedIDs: 1a07fffff007ffff9009ffff1afcffff00000000442c00005c2c0000842c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -605,14 +605,14 @@ MonoBehaviour:
     width: 1189
     height: 695
   m_SceneLighting: 0
-  lastFramingTime: 43.2621594298096
+  lastFramingTime: 2726.797880002381
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -66.472946, y: 234.20667, z: 40.873474}
+    m_Target: {x: 0, y: 0, z: 3}
     speed: 2
-    m_Value: {x: -66.472946, y: 234.20667, z: 40.873474}
+    m_Value: {x: 0, y: 0, z: 3}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -639,9 +639,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.09014851, y: 0.02897397, z: -0.0026234838, w: -0.99550337}
   m_Size:
-    m_Target: 629.26886
+    m_Target: 972.0673
     speed: 2
-    m_Value: 629.26886
+    m_Value: 972.0673
   m_Ortho:
     m_Target: 0
     speed: 2
