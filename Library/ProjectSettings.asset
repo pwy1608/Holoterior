@@ -135,7 +135,7 @@ PlayerSettings:
       depthFormat: 0
       useSustainedPerformanceMode: 0
     hololens:
-      depthFormat: 1
+      depthFormat: 0
   protectGraphicsMemory: 0
   useHDRDisplay: 0
   targetPixelDensity: 0
@@ -555,18 +555,18 @@ PlayerSettings:
       HumanInterfaceDevice: False
       InputInjectionBrokered: False
       InternetClient: False
-      InternetClientServer: False
+      InternetClientServer: True
       Location: False
       Microphone: True
       MusicLibrary: False
       Objects3D: False
       PhoneCall: False
       PicturesLibrary: False
-      PrivateNetworkClientServer: False
+      PrivateNetworkClientServer: True
       Proximity: False
       RemovableStorage: False
       SharedUserCertificates: False
-      SpatialPerception: False
+      SpatialPerception: True
       UserAccountInformation: False
       VideosLibrary: False
       VoipCall: False

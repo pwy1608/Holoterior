@@ -1,0 +1,4 @@
+C:\Users\Won Young Park\Documents\GitHub\holoterior\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\Won Young Park\Documents\GitHub\holoterior\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\Won Young Park\Documents\GitHub\holoterior\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\Won Young Park\Documents\GitHub\holoterior\App\Holoterior\Holoterior.csproj;x86

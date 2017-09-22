@@ -32,6 +32,9 @@
     </Application>
   </Applications>
   <Capabilities>
+    <Capability Name="internetClientServer" />
+    <Capability Name="privateNetworkClientServer" />
+    <uap2:Capability Name="spatialPerception" />
     <DeviceCapability Name="microphone" />
   </Capabilities>
 </Package>
