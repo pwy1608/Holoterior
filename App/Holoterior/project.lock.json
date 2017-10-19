@@ -1922,14 +1922,6 @@
         "type": "project",
         "framework": "UAP,Version=v10.0.10240",
         "dependencies": {
-          "Assembly-CSharp-firstpass": "1.0.0",
-          "Microsoft.NETCore.UniversalWindowsPlatform": "5.0.0"
-        }
-      },
-      "Assembly-CSharp-firstpass/1.0.0": {
-        "type": "project",
-        "framework": "UAP,Version=v10.0.10240",
-        "dependencies": {
           "Microsoft.NETCore.UniversalWindowsPlatform": "5.0.0"
         }
       }
@@ -3712,14 +3704,6 @@
         "type": "project",
         "framework": "UAP,Version=v10.0.10240",
         "dependencies": {
-          "Assembly-CSharp-firstpass": "1.0.0",
-          "Microsoft.NETCore.UniversalWindowsPlatform": "5.0.0"
-        }
-      },
-      "Assembly-CSharp-firstpass/1.0.0": {
-        "type": "project",
-        "framework": "UAP,Version=v10.0.10240",
-        "dependencies": {
           "Microsoft.NETCore.UniversalWindowsPlatform": "5.0.0"
         }
       }
@@ -5462,14 +5446,6 @@
         }
       },
       "Assembly-CSharp/1.0.0": {
-        "type": "project",
-        "framework": "UAP,Version=v10.0.10240",
-        "dependencies": {
-          "Assembly-CSharp-firstpass": "1.0.0",
-          "Microsoft.NETCore.UniversalWindowsPlatform": "5.0.0"
-        }
-      },
-      "Assembly-CSharp-firstpass/1.0.0": {
         "type": "project",
         "framework": "UAP,Version=v10.0.10240",
         "dependencies": {
@@ -7262,14 +7238,6 @@
         "type": "project",
         "framework": "UAP,Version=v10.0.10240",
         "dependencies": {
-          "Assembly-CSharp-firstpass": "1.0.0",
-          "Microsoft.NETCore.UniversalWindowsPlatform": "5.0.0"
-        }
-      },
-      "Assembly-CSharp-firstpass/1.0.0": {
-        "type": "project",
-        "framework": "UAP,Version=v10.0.10240",
-        "dependencies": {
           "Microsoft.NETCore.UniversalWindowsPlatform": "5.0.0"
         }
       }
@@ -9012,14 +8980,6 @@
         }
       },
       "Assembly-CSharp/1.0.0": {
-        "type": "project",
-        "framework": "UAP,Version=v10.0.10240",
-        "dependencies": {
-          "Assembly-CSharp-firstpass": "1.0.0",
-          "Microsoft.NETCore.UniversalWindowsPlatform": "5.0.0"
-        }
-      },
-      "Assembly-CSharp-firstpass/1.0.0": {
         "type": "project",
         "framework": "UAP,Version=v10.0.10240",
         "dependencies": {
@@ -10812,14 +10772,6 @@
         "type": "project",
         "framework": "UAP,Version=v10.0.10240",
         "dependencies": {
-          "Assembly-CSharp-firstpass": "1.0.0",
-          "Microsoft.NETCore.UniversalWindowsPlatform": "5.0.0"
-        }
-      },
-      "Assembly-CSharp-firstpass/1.0.0": {
-        "type": "project",
-        "framework": "UAP,Version=v10.0.10240",
-        "dependencies": {
           "Microsoft.NETCore.UniversalWindowsPlatform": "5.0.0"
         }
       }
@@ -12562,14 +12514,6 @@
         }
       },
       "Assembly-CSharp/1.0.0": {
-        "type": "project",
-        "framework": "UAP,Version=v10.0.10240",
-        "dependencies": {
-          "Assembly-CSharp-firstpass": "1.0.0",
-          "Microsoft.NETCore.UniversalWindowsPlatform": "5.0.0"
-        }
-      },
-      "Assembly-CSharp-firstpass/1.0.0": {
         "type": "project",
         "framework": "UAP,Version=v10.0.10240",
         "dependencies": {
@@ -15872,11 +15816,6 @@
       "type": "project",
       "path": "../GeneratedProjects/UWP/Assembly-CSharp/project.json",
       "msbuildProject": "../GeneratedProjects/UWP/Assembly-CSharp/Assembly-CSharp.csproj"
-    },
-    "Assembly-CSharp-firstpass/1.0.0": {
-      "type": "project",
-      "path": "../GeneratedProjects/UWP/Assembly-CSharp-firstpass/project.json",
-      "msbuildProject": "../GeneratedProjects/UWP/Assembly-CSharp-firstpass/Assembly-CSharp-firstpass.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -15893,12 +15832,12 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\Won Young Park\\Documents\\GitHub\\holoterior\\App\\Holoterior\\Holoterior.csproj",
+      "projectUniqueName": "C:\\Users\\Won Young Park\\Source\\Repos\\Holoterior\\App\\Holoterior\\Holoterior.csproj",
       "projectName": "Holoterior",
-      "projectPath": "C:\\Users\\Won Young Park\\Documents\\GitHub\\holoterior\\App\\Holoterior\\Holoterior.csproj",
-      "projectJsonPath": "C:\\Users\\Won Young Park\\Documents\\GitHub\\holoterior\\App\\Holoterior\\project.json",
+      "projectPath": "C:\\Users\\Won Young Park\\Source\\Repos\\Holoterior\\App\\Holoterior\\Holoterior.csproj",
+      "projectJsonPath": "C:\\Users\\Won Young Park\\Source\\Repos\\Holoterior\\App\\Holoterior\\project.json",
       "packagesPath": "C:\\Users\\Won Young Park\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Won Young Park\\Documents\\GitHub\\holoterior\\App\\Holoterior\\obj\\",
+      "outputPath": "C:\\Users\\Won Young Park\\Source\\Repos\\Holoterior\\App\\Holoterior\\obj\\",
       "projectStyle": "ProjectJson",
       "configFilePaths": [
         "C:\\Users\\Won Young Park\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -15911,11 +15850,8 @@
       "frameworks": {
         "uap10.0.10240": {
           "projectReferences": {
-            "C:\\Users\\Won Young Park\\Documents\\GitHub\\holoterior\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj": {
-              "projectPath": "C:\\Users\\Won Young Park\\Documents\\GitHub\\holoterior\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj"
-            },
-            "C:\\Users\\Won Young Park\\Documents\\GitHub\\holoterior\\App\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\Assembly-CSharp-firstpass.csproj": {
-              "projectPath": "C:\\Users\\Won Young Park\\Documents\\GitHub\\holoterior\\App\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\Assembly-CSharp-firstpass.csproj"
+            "C:\\Users\\Won Young Park\\Source\\Repos\\Holoterior\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj": {
+              "projectPath": "C:\\Users\\Won Young Park\\Source\\Repos\\Holoterior\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj"
             }
           }
         }

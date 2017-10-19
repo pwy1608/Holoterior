@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Holoterior.unity
+- path: Assets/Scenes/Holoterior.unity
   isLoaded: 1
   isActive: 1

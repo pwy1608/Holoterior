@@ -6,5 +6,5 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Holoterior.unity
-    guid: a10b14815a7e9cb4da54d1d6e637b3c9
+    path: Assets/Scenes/Holoterior.unity
+    guid: e7a8c023a66c82b4dbe0457d05ec7cc7

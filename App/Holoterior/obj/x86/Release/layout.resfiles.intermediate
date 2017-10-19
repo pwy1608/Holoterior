@@ -1,9 +1,5 @@
 WinMetadata\Windows.winmd
-Assets\SplashScreen.scale-100.png
-Assets\SplashScreen.scale-125.png
-Assets\SplashScreen.scale-150.png
 Assets\SplashScreen.scale-200.png
-Assets\SplashScreen.scale-400.png
 Assets\Square150x150Logo.scale-200.png
 Assets\Square44x44Logo.scale-200.png
 Assets\Square44x44Logo.targetsize-24_altform-unplated.png
@@ -20,10 +16,6 @@ Data\Resources\unity default resources
 Data\Resources\unity_builtin_extra
 Data\sharedassets0.assets
 Data\sharedassets0.assets.resS
-MicStreamSelector.dll
 PlaneFinding.dll
 Properties\Default.rd.xml
 Resource.res
-SharingClient.dll
-SpatialUnderstanding.dll
-SpatialUnderstanding.pdb

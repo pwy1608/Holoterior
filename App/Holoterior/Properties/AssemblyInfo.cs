@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Holoterior")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("DefaultCompany")]
+[assembly: AssemblyCompany("wonyp")]
 [assembly: AssemblyProduct("Holoterior")]
-[assembly: AssemblyCopyright("Copyright © DefaultCompany 2015")]
+[assembly: AssemblyCopyright("Copyright © wonyp 2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
