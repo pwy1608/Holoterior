@@ -1,2 +1,0 @@
-C:\Users\Won Young Park\Source\Repos\Holoterior\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
-C:\Users\Won Young Park\Source\Repos\Holoterior\App\Holoterior\Holoterior.csproj;x86
