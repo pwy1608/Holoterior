@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
+  m_IndirectSpecularColor: {r: 0.37311918, g: 0.3807398, b: 0.35872716, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -151,16 +151,6 @@ Prefab:
       propertyPath: m_RootOrder
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: 114000010641181420, guid: 2ed75ffdf9031c94e8bce4b3d17b9928,
-        type: 2}
-      propertyPath: roomModel
-      value: 
-      objectReference: {fileID: 100010, guid: 0092de1f41adaea44880d6421d11fa58, type: 3}
-    - target: {fileID: 114000011154029958, guid: 2ed75ffdf9031c94e8bce4b3d17b9928,
-        type: 2}
-      propertyPath: surfaceMaterial
-      value: 
-      objectReference: {fileID: 2100000, guid: e4d75dddd786ac148b984985d7855ac9, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 2ed75ffdf9031c94e8bce4b3d17b9928, type: 2}
   m_IsPrefabParent: 0
@@ -245,36 +235,6 @@ Prefab:
       propertyPath: m_RootOrder
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 114000011684836174, guid: a5bfcc12f0da80a4ba738ad168f94dbc,
-        type: 2}
-      propertyPath: SurfacePlanePrefab
-      value: 
-      objectReference: {fileID: 169982, guid: 42b74bedbbfbbe64bbe5df849a1baca3, type: 2}
-    - target: {fileID: 114000011684836174, guid: a5bfcc12f0da80a4ba738ad168f94dbc,
-        type: 2}
-      propertyPath: drawPlanesMask
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 114000011487022016, guid: a5bfcc12f0da80a4ba738ad168f94dbc,
-        type: 2}
-      propertyPath: scanTime
-      value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: 114000011487022016, guid: a5bfcc12f0da80a4ba738ad168f94dbc,
-        type: 2}
-      propertyPath: secondaryMaterial
-      value: 
-      objectReference: {fileID: 2100000, guid: df172103f5fba4a4d8636aeca60cb0d7, type: 2}
-    - target: {fileID: 114000011487022016, guid: a5bfcc12f0da80a4ba738ad168f94dbc,
-        type: 2}
-      propertyPath: defaultMaterial
-      value: 
-      objectReference: {fileID: 2100000, guid: e4d75dddd786ac148b984985d7855ac9, type: 2}
-    - target: {fileID: 114000012735412914, guid: a5bfcc12f0da80a4ba738ad168f94dbc,
-        type: 2}
-      propertyPath: BoundsExpansion
-      value: 0.1
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: a5bfcc12f0da80a4ba738ad168f94dbc, type: 2}
   m_IsPrefabParent: 0
@@ -327,10 +287,6 @@ Prefab:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 11442960, guid: b3c41eccd1bbee04db8caf5c1040dd24, type: 2}
-      propertyPath: spaceObjectPrefabs.Array.size
-      value: 2
-      objectReference: {fileID: 0}
     - target: {fileID: 446484, guid: b3c41eccd1bbee04db8caf5c1040dd24, type: 2}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -363,18 +319,6 @@ Prefab:
       propertyPath: m_RootOrder
       value: 4
       objectReference: {fileID: 0}
-    - target: {fileID: 11442960, guid: b3c41eccd1bbee04db8caf5c1040dd24, type: 2}
-      propertyPath: spaceObjectPrefabs.Array.data[2]
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 11442960, guid: b3c41eccd1bbee04db8caf5c1040dd24, type: 2}
-      propertyPath: spaceObjectPrefabs.Array.data[0]
-      value: 
-      objectReference: {fileID: 153042, guid: 89586eb679c4acb4c84c5013c7b3327d, type: 2}
-    - target: {fileID: 11442960, guid: b3c41eccd1bbee04db8caf5c1040dd24, type: 2}
-      propertyPath: spaceObjectPrefabs.Array.data[1]
-      value: 
-      objectReference: {fileID: 153042, guid: 8aeaf110bcc2957468e23cb29bd2960e, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: b3c41eccd1bbee04db8caf5c1040dd24, type: 2}
   m_IsPrefabParent: 0

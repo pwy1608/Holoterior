@@ -55,8 +55,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   limitScanningByTime: 1
   scanTime: 10
-  defaultMaterial: {fileID: 2100000, guid: d698790d3facd3d4289a13fa1243030a, type: 2}
-  secondaryMaterial: {fileID: 2100000, guid: d698790d3facd3d4289a13fa1243030a, type: 2}
+  defaultMaterial: {fileID: 2100000, guid: e4d75dddd786ac148b984985d7855ac9, type: 2}
+  secondaryMaterial: {fileID: 2100000, guid: df172103f5fba4a4d8636aeca60cb0d7, type: 2}
   minimumFloors: 1
   minimumWalls: 1
 --- !u!114 &114000011684836174
@@ -73,7 +73,7 @@ MonoBehaviour:
   ActivePlanes: []
   SurfacePlanePrefab: {fileID: 169982, guid: 42b74bedbbfbbe64bbe5df849a1baca3, type: 2}
   MinArea: 0.025
-  drawPlanesMask: -1
+  drawPlanesMask: 1
   destroyPlanesMask: 16
 --- !u!114 &114000012735412914
 MonoBehaviour:

@@ -121,7 +121,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   InteractibleParameters:
-    Scrollable: 1
+    Scrollable: 0
     Placeable: 1
   TargetFeedbackSound: {fileID: 0}
 --- !u!114 &114608917868695790
